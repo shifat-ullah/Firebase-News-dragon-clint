@@ -19,6 +19,7 @@ const Leftsidenev = () => {
 
                 <Link to={`/catagori/${catagori.id}`}>{catagori.name}</Link>
             </p>)
+           
            }
         </div>
     );
